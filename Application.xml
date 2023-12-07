@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<application name="FlightTi 20230821.113120" description="" >
+	<cardir name="customer" order="1"/>
+	<parfile name="AirZFlightBooking_dbconfig.jar" order="2" dbconfig="true" />
+	<sarfile name="AirZFlightBooking_schema.jar" order="3"/>
+	<parfile name="AirZFlightBooking_rules.jar" order="4"/>
+</application>
